@@ -1,5 +1,5 @@
 ### Oi! Eduardo de Oliveira aqui 👋
-
+---
 - 🌱 Estou aprendendo JavaScript, HTML e CSS (front-end)
 - 😄 Pronouns: ele/dele
 
