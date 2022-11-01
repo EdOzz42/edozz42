@@ -1,9 +1,7 @@
-# **Olá! Eduardo Oliveira aqui** 👨‍💻
-**Estudante** secundarista que está entrando no mundo da programação.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Archivo+Black&size=27&pause=1100&color=008363&background=1E97693B&vCenter=true&width=520&lines=Ol%C3%A1!+Eduardo+de+Oliveira+aqui+_%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Estudante+secundarista_;Brasil%2C+Paran%C3%A1%2C+Curitiba_)](https://git.io/typing-svg)
 
-
+[![Ed's GitHub stats](https://github-readme-stats.vercel.app/api?username=edozz42&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edozz42&langs_count=8&theme=gotham)](https://github.com/EdOzz42)
-
 
 ## Tecnologias que estou aprendendo no momento
 
