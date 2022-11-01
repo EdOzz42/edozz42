@@ -1,18 +1,13 @@
-### Oi! Eduardo de Oliveira aqui 👋
----
-- 📚 Estou aprendendo JavaScript, HTML e CSS (front-end)
-- 😎 Pronouns: ele/dele
+# **Olá! Eduardo Oliveira aqui** 👨‍💻
+**Estudante** secundarista que está entrando no mundo da programação.
 
-<div align="center">
-  <a href="https://github.com/EdOzz42">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=edozz42&hide=prs&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edozz42&layout=Demo&langs_count=7&theme=vue-dark"/>
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edozz42&show_icons=true&theme=gotham)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edozz42&langs_count=8&theme=gotham)](https://github.com/EdOzz42)
 
 ---
+## Tecnologias que estou aprendendo no momento
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Ed-Js" height="50" width="240" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img align="center" alt="Ed-HTML" height="50" width="190" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="Ed-CSS" height="50" width="160" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-</div>
+[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/EdOzz42)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/EdOzz42)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/EdOzz42)
+
