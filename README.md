@@ -2,7 +2,6 @@
 **Estudante** secundarista que está entrando no mundo da programação.
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edozz42&show_icons=true&theme=gotham)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edozz42&langs_count=8&theme=gotham)](https://github.com/EdOzz42)
 
 
