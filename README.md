@@ -1,10 +1,11 @@
 # **Olá! Eduardo Oliveira aqui** 👨‍💻
 **Estudante** secundarista que está entrando no mundo da programação.
 
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edozz42&show_icons=true&theme=gotham)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edozz42&langs_count=8&theme=gotham)](https://github.com/EdOzz42)
 
----
+
 ## Tecnologias que estou aprendendo no momento
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/EdOzz42)
