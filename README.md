@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Archivo+Black&size=27&pause=1000&color=008363&background=1E97693B&vCenter=true&width=520&lines=Ol%C3%A1!+Eduardo+de+Oliveira+aqui+_%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Estudante+secundarista_;Brasil%2C+Paran%C3%A1%2C+Curitiba_;</>_)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Archivo+Black&size=27&pause=980&color=008363&background=1E97693B&vCenter=true&width=520&lines=Ol%C3%A1!+Eduardo+de+Oliveira+aqui+_%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Estudante+secundarista_;Brasil%2C+Paran%C3%A1%2C+Curitiba_;</>_)](https://git.io/typing-svg)
 
 ---
 
