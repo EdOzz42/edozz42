@@ -3,7 +3,6 @@
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edozz42&langs_count=8&theme=gotham)](https://github.com/EdOzz42)
-[![Ed's GitHub stats](https://github-readme-stats.vercel.app/api?username=edozz42&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
