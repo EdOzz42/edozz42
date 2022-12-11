@@ -1,14 +1,32 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&size=27&pause=980&color=008363&background=1E97693B&vCenter=true&width=520&lines=Ol%C3%A1!+Eduardo+de+Oliveira+aqui+_%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Tenho+15+anos_;Brasil%2C+Paran%C3%A1%2C+Curitiba_;</>_)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=500&size=30&pause=1000&color=5CF715&center=true&vCenter=true&width=435&lines=Hello%2C+world!;Oliveira+here!)](https://git.io/typing-svg)
 
----
+<style>
+    .banner {
+        width: 50%;
+        border-radius: 5px;
+        margin: 15px;
+        float: right;
+    }
+    .gif {
+        width: 45%;
+        margin-right: 15px;
+        border-radius: 5px;
+        float: left;
+    }
+    .quote {
+        font: normal 1.75em "Courier New", Courier, monospace;;
+        color: green;
+    }
+</style>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edozz42&langs_count=8&theme=gotham)](https://github.com/EdOzz42)
+<img src='media/BannerGitHub.jpg' class='banner'>
 
----
+## ➕ Sobre mim:
+- Tenho 15 anos;
+- Também sou um noob em photoshop;
+- Entrei nesse universo do desenvolvimento web e da programação por curiosidade e pela possibilidade de criar diversas coisas e soluções;
+- Sempre aprimorando meus conhecimentos. 
 
-## Tecnologias que estou aprendendo no momento
+<img src='media/programming_something.gif' class='gif'> 
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/EdOzz42)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/EdOzz42)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/EdOzz42)
-
+<div class='quote'>“The programmers of tomorrow are the wizards of the future” -Gabe Newell</div> 
