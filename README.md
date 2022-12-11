@@ -12,8 +12,13 @@
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=EdOzz42&layout=compact&theme=dark' width='450px'>
 <img src='https://github-readme-stats.vercel.app/api?username=EdOzz42&show_icons=true&theme=dark' width='450px'>
 
-## 💬 A quote 
+## 💬 Quotes  
 <img src='media/programming_something.gif' width='400px' height='250' align='right'>
 
-> “The programmers of tomorrow are the wizards of the future” 
->> -Gabe Newell  
+👾👨‍💻🧙‍♂️
+> “The programmers of tomorrow are the wizards of the future.” 
+>> -Gabe Newell, cofundador e diretor da Valve. 
+
+💪💡✨
+> “A nossa maior fraqueza consiste em desistir. O caminho mais seguro para o sucesso é sempre tentar mais uma vez.” 
+>> — Thomas Edison, inventor e empresário estadunidense.
