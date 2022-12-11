@@ -13,7 +13,7 @@
 <img src='https://github-readme-stats.vercel.app/api?username=EdOzz42&show_icons=true&theme=dark' width='450px'>
 
 ## 💬 A quote 
-<img src='media/programming_something.gif' width='500px' height='200'>
+<img src='media/programming_something.gif' width='450px' height='450'>
 
 > “The programmers of tomorrow are the wizards of the future” 
 >> -Gabe Newell  
