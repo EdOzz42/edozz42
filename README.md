@@ -1,25 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=500&size=30&pause=1000&color=5CF715&center=true&vCenter=true&width=435&lines=Hello%2C+world!;Oliveira+here!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=500&size=45&pause=1000&color=5CF715&center=false&vCenter=true&width=435&lines=Hello%2C+world!;Eduardo de Oliveira+here!)](https://git.io/typing-svg)
 
-<style>
-    .banner {
-        width: 50%;
-        border-radius: 5px;
-        margin: 15px;
-        float: right;
-    }
-    .gif {
-        width: 45%;
-        margin-right: 15px;
-        border-radius: 5px;
-        float: left;
-    }
-    .quote {
-        font: normal 1.75em "Courier New", Courier, monospace;;
-        color: green;
-    }
-</style>
-
-<img src='media/BannerGitHub.jpg' class='banner'>
+<img src='media/BannerGitHub.jpg' align='right' width='48%'>
 
 ## ➕ Sobre mim:
 - Tenho 15 anos;
@@ -27,6 +8,12 @@
 - Entrei nesse universo do desenvolvimento web e da programação por curiosidade e pela possibilidade de criar diversas coisas e soluções;
 - Sempre aprimorando meus conhecimentos. 
 
-<img src='media/programming_something.gif' class='gif'> 
+## ⚙ Estatísticas 
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=EdOzz42&layout=compact&theme=dark' width='500px' height='260px'>
+<img src='https://github-readme-stats.vercel.app/api?username=EdOzz42&show_icons=true&theme=dark' width='500px' height='260px'>
 
-<div class='quote'>“The programmers of tomorrow are the wizards of the future” -Gabe Newell</div> 
+## 💬 A quote 
+<img src='media/programming_something.gif' width='500px' height='200'>
+
+> “The programmers of tomorrow are the wizards of the future” 
+>> -Gabe Newell  
