@@ -9,11 +9,11 @@
 - Sempre aprimorando meus conhecimentos. 
 
 ## ⚙ Estatísticas 
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=EdOzz42&layout=compact&theme=dark' width='450px'>
-<img src='https://github-readme-stats.vercel.app/api?username=EdOzz42&show_icons=true&theme=dark' width='450px'>
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=EdOzz42&layout=compact&theme=dark' width='53%'>
+<img src='https://github-readme-stats.vercel.app/api?username=EdOzz42&show_icons=true&theme=dark' width='53%'>
 
 ## 💬 Quotes  
-<img src='media/programming_something.gif' width='400px' height='250' align='right'>
+<img src='media/programming_something.gif' width='42%' align='right'>
 
 👾👨‍💻🧙‍♂️
 > “The programmers of tomorrow are the wizards of the future.” 
