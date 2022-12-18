@@ -9,8 +9,8 @@
 - Sempre aprimorando meus conhecimentos. 
 
 ## ⚙ Estatísticas 
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=EdOzz42&layout=compact&theme=dark' width='480px'>
-<img src='https://github-readme-stats.vercel.app/api?username=EdOzz42&show_icons=true&theme=dark' width='480px'>
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=EdOzz42&layout=compact&theme=dark' width='475px'>
+<img src='https://github-readme-stats.vercel.app/api?username=EdOzz42&show_icons=true&theme=dark' width='475px'>
 
 ## 💬 Quotes  
 <img src='media/programming_something.gif' width='42%' align='right'>
