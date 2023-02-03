@@ -15,10 +15,7 @@
 ## 💬 Quotes  
 <img src='media/programming_something.gif' width='42%' align='right'>
 
-👾👨‍💻🧙‍♂️
+👨‍💻🧙‍♂️
 > “The programmers of tomorrow are the wizards of the future.” 
 >> -Gabe Newell, cofundador e diretor da Valve. 
 
-💪💡✨
-> “A nossa maior fraqueza consiste em desistir. O caminho mais seguro para o sucesso é sempre tentar mais uma vez.” 
->> — Thomas Edison, inventor e empresário estadunidense.
