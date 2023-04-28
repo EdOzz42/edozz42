@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=500&size=30&pause=1000&color=6acadd&center=false&vCenter=true&width=435&lines=Hello%2C+world!_;Oliveira+here!_)](https://git.io/typing-svg)
 
-<img src='media/BannerGitHub.jpg' align='right' width='42%'>
+<img src='media/BannerGithub.jpg' align='right' width='42%'>
 
 ## ➕ Sobre mim:
 - Tenho 16 anos;
