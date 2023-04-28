@@ -3,10 +3,11 @@
 <img src='media/BannerGitHub.jpg' align='right' width='42%'>
 
 ## ➕ Sobre mim:
-- Tenho 15 anos;
-- Também sou um noob em photoshop;
-- Entrei nesse universo do desenvolvimento web e da programação por curiosidade e pela possibilidade de criar diversas coisas e soluções;
-- Sempre aprimorando meus conhecimentos. 
+- Tenho 16 anos;
+- Gosto de resolver problemas diversos;
+- Gosto de matemática;
+- Navegando no mundo do desenvolvimento web novamente;
+- Sempre aprimorando meus conhecimentos.
 
 ## ⚙ Estatísticas 
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=EdOzz42&layout=compact&theme=dark' width='460px'>
