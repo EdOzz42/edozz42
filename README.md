@@ -7,7 +7,8 @@
 - Gosto de resolver problemas diversos;
 - Gosto de matemática;
 - Navegando no mundo do desenvolvimento web novamente;
-- Sempre aprimorando meus conhecimentos.
+- Sempre aprimorando meus conhecimentos;
+- Adoro jogar games dos mais diversos tipos, uma das melhores mídias. 
 
 ## ⚙ Stats 
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=EdOzz42&layout=compact&theme=dark' width='460px'>
